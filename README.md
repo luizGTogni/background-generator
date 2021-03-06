@@ -1,11 +1,11 @@
 
 
 
-# ITrainer
+# Background Generator
 
 ![Preview-Screens](https://github.com/luizGTogni/background-generator/blob/main/screen.png)
 
-Se quiser ver ele online [clique aqui](https://moveit-next-teal.vercel.app/).
+Se quiser ver ele online [clique aqui](https://luizgtogni.github.io/background-generator/).
 
 ## Sobre este projeto
 
