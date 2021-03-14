@@ -32,7 +32,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/luizgustavotogni/).
 **Clonando o Repositorio**
 
 ```
-$ git clone https://github.com/luizGTogni/background-generator
+$ git clone https://github.com/luizGTogni/background-generator.git
 
 $ cd background-generator
 ```
